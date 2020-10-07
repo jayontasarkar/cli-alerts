@@ -18,7 +18,7 @@ All notable changes in this project's [released versions](../../releases) are do
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
-> 📦 First commit [`948b748`](https://github.com/jayontasarkar/cli-alerts/commit)
+> 📦 First commit [`0173a3d`](https://github.com/jayontasarkar/cli-alerts/commit)
 
 ## License & Conduct
 
